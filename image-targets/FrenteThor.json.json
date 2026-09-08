@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 250,
+    "width": 1500,
+    "height": 2000,
+    "isRotated": false,
+    "originalWidth": 2000,
+    "originalHeight": 2000
+  },
+  "imagePath": "image-targets/FrenteThor.json_luminance.jpg",
+  "metadata": null,
+  "name": "FrenteThor.json",
+  "resources": {
+    "originalImage": "FrenteThor.json_original.jpg",
+    "croppedImage": "FrenteThor.json_cropped.jpg",
+    "thumbnailImage": "FrenteThor.json_thumbnail.jpg",
+    "luminanceImage": "FrenteThor.json_luminance.jpg"
+  },
+  "created": 1788842984205,
+  "updated": 1788842984205
+}
